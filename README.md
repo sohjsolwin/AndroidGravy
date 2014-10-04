@@ -1,4 +1,4 @@
 AndroidGravy
 ============
 
-Derek Ross desires to feast on glorious Android Gravy. I'm not sure this is going to turn out well...
+An Android Bugdroid travels around a 2D world firing gravy at foes along the way. The object of the game is to find a squirrel and fire gravy at the squirrels neck meat. Only the neck meat can be harvested.
